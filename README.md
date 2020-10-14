@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 #
 # OANDA Trading
 #
 ## References
 - https://github.com/oanda/v20-python-samples
-
 - oanda-candles
 - oanda-chart
 - v20
