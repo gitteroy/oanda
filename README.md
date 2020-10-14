@@ -1,13 +1,12 @@
-#
 # OANDA Trading
-#
-## References
+
+# References
 - https://github.com/oanda/v20-python-samples
 - oanda-candles
 - oanda-chart
 - v20
 
-## Setup
+# Setup
 
 The following procedure describes how to create a virtualenv appropriate for
 running the v20 sample code:
@@ -115,7 +114,7 @@ v20 configuration file is. If a configuration file exists in this location, no
 ```
 
 
-## Sample Code
+# Sample Code
 
 Following is a listing of the sample code provided. More details can be found
 in the READMEs provided in each src directory.
@@ -194,7 +193,7 @@ e.g.
 (env)C:\user\oanda: python src/instrument/candles.py INSTRUMENT
 ```
 
-## Capture screenshots
+# Capture screenshots
 ```
 (env)C:\user\oanda: python src/instrument/candles_chart.py
 ```
