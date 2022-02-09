@@ -2,9 +2,9 @@
 
 # References
 - https://github.com/oanda/v20-python-samples
-- oanda-candles
-- oanda-chart
-- v20
+- https://pypi.org/project/oanda-candles/
+- https://pypi.org/project/oanda-chart/
+- https://pypi.org/project/v20/
 
 # Setup
 
