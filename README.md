@@ -6,6 +6,15 @@
 - https://pypi.org/project/oanda-chart/
 - https://pypi.org/project/v20/
 
+# Pre-requisites
+- Create an Oanda Demo trading account at https://www1.oanda.com/demo-account/login
+- Enable API and take note of the following details for the API connection later:
+* API hostname
+* API port
+* API token
+* username of client
+* Account ID
+
 # Setup
 
 The following procedure describes how to create a virtualenv appropriate for
